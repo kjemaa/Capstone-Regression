@@ -1,11 +1,11 @@
-### Capstone-Regression
+# Capstone-Regression
 
-##Price prediction in the London Airbnb market
-
-
+#Price prediction in the London Airbnb market
 
 
-# Excecutive summary
+
+
+## Excecutive summary
  
 The project shows how to develop a regressor to recommend prices in the airbnb market in London. 
 
