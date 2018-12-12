@@ -17,6 +17,9 @@ http://insideairbnb.com/get-the-data.html
 Files:
 - listings.csv
 - calendar.csv
+- proposal.pdf
+- report.pdf
+- capstone.ipynb
 
 ## Excecutive summary
  
@@ -32,3 +35,7 @@ And a pool of models were measured against the benchmark. The full feature datas
 And XGboost proved to be the best model and chosen for parameter tuning. 
 The parameter tuning resulted in a R square of 0.78., which is a satisfying result, although several other measured 
 could have been taken to improve the model given more time and computing power. 
+
+## Aknowledgements
+Resources are cited in the report and in the notebook
+
