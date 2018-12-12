@@ -1,8 +1,4 @@
-# Capstone-Regression
-
-#Price prediction in the London Airbnb market
-
-
+# Capstone: Price prediction in the London Airbnb market
 
 
 ## Excecutive summary
