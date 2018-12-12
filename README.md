@@ -1,6 +1,23 @@
 # Capstone: Price prediction in the London Airbnb market
 
 
+The project has been conducted in Jupyter notebook.
+
+Following libraries were used:
+- pandas
+- numpy
+- matplotlib
+- sklearn
+- datetime
+- xgboost
+
+Data were collected on:
+http://insideairbnb.com/get-the-data.html
+
+Files:
+- listings.csv
+- calendar.csv
+
 ## Excecutive summary
  
 The project shows how to develop a regressor to recommend prices in the airbnb market in London. 
