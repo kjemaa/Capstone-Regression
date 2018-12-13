@@ -17,9 +17,9 @@ http://insideairbnb.com/get-the-data.html
 Files:
 - listings.csv
 - calendar.csv
-- proposal.pdf
-- report.pdf
-- capstone.ipynb
+- Machine-learning-capstone-proposal.pdf
+- Machine-learning-capstone-report.pdf
+- capstone_regression.ipynb
 
 ## Excecutive summary
  
