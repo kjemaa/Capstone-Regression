@@ -14,9 +14,11 @@ Following libraries were used:
 Data were collected on:
 http://insideairbnb.com/get-the-data.html
 
+The listings and calendar file is too large to upload to repository, but link is provided. 
+
 Files:
-- listings.csv
-- calendar.csv
+- listings.csv http://data.insideairbnb.com/united-kingdom/england/london/2018-10-06/data/listings.csv.gz
+- calendar.csv http://data.insideairbnb.com/united-kingdom/england/london/2018-10-06/data/calendar.csv.gz
 - Machine Learning Capstone-proposal.pdf
 - Machine Learning Capstone-report.pdf
 - capstone_regression.ipynb
